@@ -8,7 +8,7 @@
       <strong>Fecha de entrega:</strong> 10 de Junio 2026
     </td>
     <td align="right">
-      <img src="../Workshop02/images/UTN LOGO OFICIAL (Custom).png" width="100">
+      <img src="images/UTN LOGO OFICIAL (Custom).png" width="100">
     </td>
   </tr>
 </table>
